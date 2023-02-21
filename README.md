@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/602266ffe5abae001c525360.gif))](https://github.com/MuslimShah/MuslimShah)
+[![MasterHead](https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/602266ffe5abae001c525360.gif)](https://github.com/muslimshah)
 
 <h1 align="center">Hi 👋, I'm Muslim Shah</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
